@@ -1,5 +1,7 @@
 # Signal Processing
 
+NOTE: Project has been abandoned. I made this back in 2019.
+
 Using Python to process audio data and let Arduino play it. 
 
 ## Getting Started
